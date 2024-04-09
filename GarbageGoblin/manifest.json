@@ -2,7 +2,7 @@
   "Name": "Garbage Goblin",
   "Author": "Taylor Walker",
   "Version": "1.0.0",
-  "Description": "",
+  "Description": "Allows each player to check garbage cans multiple times per day.",
   "UniqueID": "TaylorWalker.GarbageGoblin",
   "EntryDll": "GarbageGoblin.dll",
   "MinimumApiVersion": "4.0.0",
