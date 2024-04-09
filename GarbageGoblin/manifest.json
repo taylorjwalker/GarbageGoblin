@@ -1,0 +1,10 @@
+{
+  "Name": "Garbage Goblin",
+  "Author": "Taylor Walker",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "TaylorWalker.GarbageGoblin",
+  "EntryDll": "GarbageGoblin.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
